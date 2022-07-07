@@ -30,5 +30,6 @@
         "^build"
       ]
     }
-  }
+  },
+  "defaultProject": "microservice1"
 }

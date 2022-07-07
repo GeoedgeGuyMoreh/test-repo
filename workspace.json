@@ -1,5 +1,9 @@
 {
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
-  "projects": {}
+  "projects": {
+    "jwt-jwt-validator": "libs/jwt/jwt-validator",
+    "microservice1": "apps/microservice1",
+    "microservice2": "apps/microservice2"
+  }
 }
