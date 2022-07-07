@@ -15,7 +15,7 @@ describe('AppService', () => {
 
   describe('getData', () => {
     it('should return "Welcome to microservice1!"', () => {
-      expect(service.getData()).toEqual({message: 'Welcome to microservice1!'});
+      expect(service.getData()).toEqual({message: 'jwt-jwt-validator'});
     });
   });
 });
