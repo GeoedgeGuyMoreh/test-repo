@@ -4,6 +4,7 @@
   "projects": {
     "jwt-jwt-validator": "libs/jwt/jwt-validator",
     "microservice1": "apps/microservice1",
-    "microservice2": "apps/microservice2"
+    "microservice2": "apps/microservice2",
+    "microservice3": "apps/microservice3"
   }
 }
